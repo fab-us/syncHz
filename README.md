@@ -1,1 +1,1 @@
-# synctone
+# syncHz
